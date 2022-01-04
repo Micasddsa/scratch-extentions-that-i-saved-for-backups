@@ -1,0 +1,7 @@
+Various Tools - https://rixxyx.rixthetyrunt.repl.co/beta.js
+SHEEP - https://sheeptester.github.io/javascripts/utilities.js
+GET and POST - https://sheeptester.github.io/hello-world/fetch.js
+Gamepad Support - https://arpruss.github.io/gamepad.js
+MinecraftBot - https://arpruss.github.io/rjm.js
+Simple Gamepad - https://arpruss.github.io/simplegamepad.js
+Mouse Cursor - https://samq64.github.io/scratch-extensions/MouseCursor.js
